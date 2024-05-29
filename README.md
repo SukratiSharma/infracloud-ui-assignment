@@ -54,7 +54,7 @@
 
  ##### 4. Filter on the basis of Time Range - Click on "Switch to: Time Range Selector View", as shown in above screenshot, and it will show the chart with the Time frames on X Axis, datepickers to select the range and Butttons to show data according to day, week and month.
 
- ####     [Design Note] - Here, For Time Range Filteration, Highcharts stock library has been used specifiaclly. Highcharts Stock provides built-in tools for selecting and zooming into specific time ranges. Users can easily drag sliders or select predefined ranges making it highly interactive and user-friendly which was not possible using normal Highcharts.
+ ####     [Design Note] - Here, For Time Range Filteration, Highcharts stock library has been used specifically. Highcharts Stock provides built-in tools for selecting and zooming into specific time ranges. Users can easily drag sliders or select predefined ranges making it highly interactive and user-friendly which was not possible using normal Highcharts.
   ![4  TimeRangeSelection](https://github.com/SukratiSharma/infracloud-ui-assignment/assets/29679942/450a3257-efd4-4da2-a5d0-95157793a1a4)
 
  ##### 5. Reset and Hide Buttons added as per the design screenshot given
